@@ -1,4 +1,0 @@
-{
-  "buildCommand": "cd navalhaecia && npm run build",
-  "outputDirectory": "navalhaecia/.next"
-}
